@@ -25,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B9187FD4187D3FB600F8C1CE /* memoire.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = memoire.h; sourceTree = "<group>"; };
+		B9187FD5187D3FB600F8C1CE /* variable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = variable.h; sourceTree = "<group>"; };
 		B9E5145F187D3F26009C1DFD /* TP7 - Gestion de memoire */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "TP7 - Gestion de memoire"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9E51462187D3F26009C1DFD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		B9E51464187D3F26009C1DFD /* TP7___Gestion_de_memoire.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "TP7___Gestion_de_memoire.1"; sourceTree = "<group>"; };
@@ -60,6 +62,8 @@
 		B9E51461187D3F26009C1DFD /* TP7 - Gestion de memoire */ = {
 			isa = PBXGroup;
 			children = (
+				B9187FD4187D3FB600F8C1CE /* memoire.h */,
+				B9187FD5187D3FB600F8C1CE /* variable.h */,
 				B9E51462187D3F26009C1DFD /* main.c */,
 				B9E51464187D3F26009C1DFD /* TP7___Gestion_de_memoire.1 */,
 			);
@@ -225,6 +229,7 @@
 				B9E5146A187D3F26009C1DFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
